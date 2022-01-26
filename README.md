@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rymaninc
+- 👋 Hi, I’m Ryan Manrique @rymaninc
 - 👀 I’m interested in web development and programming.
 - 🌱 I’m currently learning html, css, and python.
 - 💞️ I’m looking to collaborate on programming and web development
